@@ -1,4 +1,4 @@
-# Exercício - RSS 
+﻿# Exercício - RSS 
 
 Esta tarefa envolve os conceitos de UI widgets, tarefas assíncronas, RecyclerView, Custom Adapters, Intents, Permissions. 
 Faça um clone ou fork deste projeto, siga os passos na ordem sugerida e marque mais abaixo, na sua resposta, quais os passos completados. 
@@ -26,11 +26,11 @@ Para entregar o exercício, responda o [formulário de entrega](https://docs.goo
 
 | Passo | Completou? |
 | ------ | ------ |
-| 1 | **não** |
-| 2 | **não** |
-| 3 | **não** |
-| 4 | **não** |
-| 5 | **não** |
-| 6 | **não** |
-| 7 | **não** |
+| 1 | **sim** |
+| 2 | **sim** |
+| 3 | **sim** |
+| 4 | **sim** |
+| 5 | **sim** |
+| 6 | **sim** |
+| 7 | **sim** |
 | 8 | **não** |
